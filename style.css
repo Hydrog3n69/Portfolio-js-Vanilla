@@ -138,14 +138,14 @@
   display: flex;
   justify-content: center;
   height: 150px;
-  margin: 100px 0;
+  margin-top: 100px;
   font-size: 1.5rem;
   align-items: center;
   font-family: "Roboto Slab", serif;
   background-color: rgb(39, 121, 153);
 }
 .about-text {
-  margin: 190px 50px;
+  margin: 160px 50px;
   display: flex;
   flex-direction: column;
   justify-content: center;
